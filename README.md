@@ -1,5 +1,7 @@
 # Pipeline Tools
 
+<img src="res/pipelines.png" alt="Data Pipelines" width="750">
+
 This repository contains a Python module for connecting to SQL databases and some useful utility functions.
 
 ## SQLConnector
